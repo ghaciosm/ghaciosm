@@ -1,9 +1,6 @@
 ## Hi , I'm Gülçin HACIOSMANOĞLU 👋
 
 
-**ghaciosm/ghaciosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
   ### İstatistikler
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ghaciosm&show_icons=true&theme=radical)
 
